@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eKitabWeb", "eKitabWeb\eKitabWeb.csproj", "{DE243F12-C7B1-4057-8BDB-97B6755017CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE243F12-C7B1-4057-8BDB-97B6755017CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE243F12-C7B1-4057-8BDB-97B6755017CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE243F12-C7B1-4057-8BDB-97B6755017CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE243F12-C7B1-4057-8BDB-97B6755017CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C81E00D-F686-428E-BA83-9525773CBA66}
+	EndGlobalSection
+EndGlobal
